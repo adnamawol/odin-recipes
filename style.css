@@ -1,0 +1,45 @@
+h1 {
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+    background-color: gainsboro;
+    color: olive;
+}
+
+h1#bbm,
+h1#burger {
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+    background-color: burlywood ;
+    color: cornsilk;
+}
+
+h1#hojicha { 
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+    background-color: olive;
+    color: gainsboro;
+
+}
+
+h4 {
+    font-size: 20px;
+    color: darkslategrey;
+    background-color: gainsboro;
+}
+
+ol {
+    font-size: 18px;
+}
+
+ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+em.diff {
+    font-family: Garamond, Georgia, serif;
+}
+
+.pic {
+    width: 500px;
+    height: auto;
+}
